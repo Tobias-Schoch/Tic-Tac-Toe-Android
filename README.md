@@ -6,14 +6,10 @@
 
 ## 📦 The Project
 
-This project is available at the google play store: 
-<br>
-https://play.google.com/store/apps/details?id=com.tic.tobiasschoch.tic&hl=de
-<br>
-
 If you want to evaluate or continue the project, just fork it.
 <br> 
 You can find it at https://github.com/Tobias-Schoch/Tic-Tac-Toe-Android.git
+<br><br><a href='https://play.google.com/store/apps/details?id=com.tic.tobiasschoch.tic' target="_blank" ><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
 
 <br>
 
@@ -30,3 +26,10 @@ You can find it at https://github.com/Tobias-Schoch/Tic-Tac-Toe-Android.git
 - Responsive Design
 - Flat UI
 - Seeing winning route
+
+<br>
+
+## 📋 License
+
+Licensed under the GPLv3: http://www.gnu.org/licenses/gpl-3.0.html
+Google Play and the Google Play logo are trademarks of Google Inc.
