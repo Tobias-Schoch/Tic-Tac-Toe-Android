@@ -1,6 +1,6 @@
 # 
 <h1 align="left">
-  Tic-Tac-Toe-Android
+  <img src='https://lh3.googleusercontent.com/5VcFf4ex2n0ieCQ3MwPT-P-Y9NCAw_9XV9g-i3IpFqPDguZKSacCndktVvBa3AkJuW4=s180-rw' height="10%" width="10%"> Tic-Tac-Toe-Android
 </h1>
 <br>
 
